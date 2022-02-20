@@ -1,0 +1,18 @@
+Microsoft/Skype for Desktop
+Microsoft/Teams/current
+Microsoft/Teams/packages
+Microsoft/Teams/previous
+
+Program Files (x86)/Skype
+Program Files (x86)/Teams Installer
+
+AppData/Local/GoToMeeting
+AppData/Local/WebEx/WebEx
+
+slack/packages
+Slack/Service Worker/CacheStorage
+WebEx/WebEx/Meetings
+Zoom/data/Emojis
+
+Discord/app-*/
+slack/app-4.*/
